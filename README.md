@@ -16,7 +16,7 @@ The project consists of the following main components:
 
 To view and interact with the Power BI report, follow these steps:
 
-1. **Download Power BI Desktop**: If you don't have it already, download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+1. **Download Power BI Desktop**: If you don't have it already, download and install Power BI Desktop or if you have a Mac/Linux, use a virtual machine via the microsoft azure website.
 2. **Clone or Download the Repository**: Clone or download this repository to your local machine.
 3. **Open the Power BI Project**: Launch Power BI Desktop and open the `Power BI report.pbix` file from the downloaded repository.
 4. **Explore the Report**: Explore the different pages and visuals to gain insights from the data.
@@ -131,10 +131,19 @@ Here's a detailed guide on how to navigate and utilise the Power BI report:
     - Key measures were created using DAX formulas in the Measures Table.
     - Measures included Total Orders, Total Revenue, Total Profit, Total Customers, Total Quantity, Profit YTD, and Revenue YTD.
     - Calculated columns were added to the Products table, including Profit per Item, which calculated the profit per item sold.
+      - Examples below:
+        - Total Orders = COUNTROWS(Orders)
+        - Total Revenue = SUMX(Orders, Orders[Product Quantity] * RELATED(Products[Sale Price]))
+      
+<img width="402" alt="Screenshot 2024-02-28 at 02 49 51" src="https://github.com/rodaabdulkadir/data-analytics-power-bi-report880/assets/129794377/55a2a879-ec67-4b25-ad94-bd85981d112a">
 
-- **Visual Design**: Describe the visuals created for each page, including their purpose and how they contribute to the overall analysis.
-
-- **Cross-Filtering Actions**: Describe the changes made to the visual cross-filtering actions and how they enhance the user experience.
+- **Cross-Filtering Actions**:
+  - Executive Summary Page:
+    - Limited cross-filtering actions to maintain focus on high-level metrics.
+  - Customer Detail Page:
+    - Restricted cross-filtering between visuals to maintain clarity in customer analysis.
+   - Product Detail Page:
+     - Ensured that the scatter chart did not affect other visuals to maintain focus on product performance.
 
 - **Navigation Sidebar**:
   - Utilised custom icons for navigation buttons.
@@ -142,10 +151,9 @@ Here's a detailed guide on how to navigate and utilise the Power BI report:
   - Action settings were configured to enable page navigation.
   - Bookmarks were created to toggle the visibility of slicer panels, enabling users to access slicers when needed.
     
-<img width="60" alt="Screenshot 2024-02-28 at 01 43 26" src="https://github.com/rodaabdulkadir/data-analytics-power-bi-report880/assets/129794377/fa1a5dc5-abb8-47fa-a4bc-daf7745995ec">
-
 <img width="539" alt="Screenshot 2024-02-28 at 01 43 52" src="https://github.com/rodaabdulkadir/data-analytics-power-bi-report880/assets/129794377/d2577573-4ba3-4f3e-bc2a-7e23c7541747">
 
+<img width="783" alt="Screenshot 2024-02-28 at 02 45 00" src="https://github.com/rodaabdulkadir/data-analytics-power-bi-report880/assets/129794377/63e442bd-d764-463d-a5e7-11084c3ec90f">
 
 
 
