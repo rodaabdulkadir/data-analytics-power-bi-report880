@@ -43,7 +43,8 @@ Here's a detailed guide on how to navigate and utilise the Power BI report:
    - Use the slicers to filter data based on product category or country.
    - Observe how filtering affects key metrics and visuals on the page.
      
-<img width="929" alt="Screenshot 2024-02-28 at 01 43 35" src="https://github.com/rodaabdulkadir/data-analytics-power-bi-report880/assets/129794377/69b86153-8708-4a92-929d-f43727302b92">
+<img width="593" alt="Screenshot 2024-02-28 at 02 36 17" src="https://github.com/rodaabdulkadir/data-analytics-power-bi-report880/assets/129794377/8b37b74b-5cbd-4ee9-bc80-67c737207ab6">
+
 
 
 ### Customer Detail Page
@@ -64,7 +65,7 @@ Here's a detailed guide on how to navigate and utilise the Power BI report:
    - Use slicers to filter data by product category or country.
    - Analyse how filtering affects customer-related metrics.
      
-<img width="593" alt="Screenshot 2024-02-28 at 02 32 50" src="https://github.com/rodaabdulkadir/data-analytics-power-bi-report880/assets/129794377/85374702-cb66-4745-ba77-0722ab17a2ba">
+<img width="929" alt="Screenshot 2024-02-28 at 01 43 35" src="https://github.com/rodaabdulkadir/data-analytics-power-bi-report880/assets/129794377/69b86153-8708-4a92-929d-f43727302b92">
 
 
 ### Product Detail Page
