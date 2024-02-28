@@ -12,6 +12,9 @@ Despite the initial difficulties, persisting through the challenges allowed me t
 
 Overall, this project served as an invaluable learning opportunity, enabling me to expand my proficiency in data analysis and visualisation while gaining confidence in tackling intricate data projects. I look forward to applying the knowledge and skills acquired here to future endeavours in data analytics and beyond.
 
+## Table of Contents
+
+
 ## Project Overview
 
 The project consists of the following main components:
