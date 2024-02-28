@@ -61,7 +61,7 @@ Here's a detailed guide on how to navigate and utilise the Power BI report:
 6. Slicers:
    - Use the slicers to filter data based on store type or country.
      
-<img width="593" alt="Screenshot 2024-02-28 at 02 36 17" src="https://github.com/rodaabdulkadir/data-analytics-power-bi-report880/assets/129794377/8b37b74b-5cbd-4ee9-bc80-67c737207ab6">
+<img width="929" alt="Screenshot 2024-02-28 at 02 36 17" src="https://github.com/rodaabdulkadir/data-analytics-power-bi-report880/assets/129794377/8b37b74b-5cbd-4ee9-bc80-67c737207ab6">
 
 
 
