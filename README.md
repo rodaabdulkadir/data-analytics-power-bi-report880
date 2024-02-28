@@ -193,7 +193,7 @@ This milestone project involved leveraging a Postgres database hosted on Microso
 - Exported query results to CSV files for further analysis and documentation.
 
 ## Reflection
-Throughout this milestone project, I faced challenges such as understanding the database schema, crafting complex SQL queries, and troubleshooting errors. However, each challenge served as a valuable learning opportunity, and I persisted until I achieved the desired outcomes.
+Throughout this milestone project, I faced challenges such as understanding the database schema, crafting complex SQL queries, and troubleshooting errors. However, each challenge served as a valuable learning opportunity, and I persisted until I achieved the desired outcomes. Unfortunately, I encountered difficulties with queries 3 and 4, and despite my efforts, I was unable to develop a working solution for these tasks.
 
 ## Conclusion
 Overall, this milestone project was a rewarding experience that allowed me to enhance my SQL querying skills and gain practical experience in working with real-world databases. I look forward to applying these skills to future projects and continuing my journey in database management and analytics.
