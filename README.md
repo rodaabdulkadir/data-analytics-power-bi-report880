@@ -19,6 +19,7 @@ Overall, this project served as an invaluable learning opportunity, enabling me 
 3. [Usage](#usage)
 4. [Detailed Project Implementation](#detailed-project-implementation)
 5. [Metrics for Users outside the Company using SQL](#metrics-for-users-outside-the-company-using-sql)
+6. [License](#license)
 
 
 ## Project Overview
@@ -167,9 +168,6 @@ Here's a detailed guide on how to navigate and utilise the Power BI report:
 
 
 
-
-
-
 # Metrics for users outside the company using SQL
 
 ## Overview
@@ -199,3 +197,7 @@ Throughout this milestone project, I faced challenges such as understanding the 
 
 ## Conclusion
 Overall, this milestone project was a rewarding experience that allowed me to enhance my SQL querying skills and gain practical experience in working with real-world databases. I look forward to applying these skills to future projects and continuing my journey in database management and analytics.
+
+## License
+
+This project is licensed under the MIT License.
