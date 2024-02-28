@@ -35,10 +35,11 @@ The project consists of the following main components:
 
 To view and interact with the Power BI report, follow these steps:
 
-1. **Download Power BI Desktop**: If you don't have it already, download and install Power BI Desktop or if you have a Mac/Linux, use a virtual machine via the microsoft azure website.
-2. **Clone or Download the Repository**: Clone or download this repository to your local machine.
-3. **Open the Power BI Project**: Launch Power BI Desktop and open the `Power BI report.pbix` file from the downloaded repository.
-4. **Explore the Report**: Explore the different pages and visuals to gain insights from the data.
+1. **Download Power BI Desktop**: If you don't have it already, download and install Power BI Desktop or if you have a Mac/Linux, use a virtual machine via the Microsoft Azure website.For more information about Microsoft Azure and its services, visit [Microsoft Azure](https://azure.microsoft.com/en-gb/free/search/?ef_id=_k_EAIaIQobChMI9o6V44zNhAMVU5VQBh14YgKcEAAYASAAEgITUvD_BwE_k_&OCID=AIDcmm3bvqzxp1_SEM__k_EAIaIQobChMI9o6V44zNhAMVU5VQBh14YgKcEAAYASAAEgITUvD_BwE_k_&gad_source=1&gclid=EAIaIQobChMI9o6V44zNhAMVU5VQBh14YgKcEAAYASAAEgITUvD_B
+
+3. **Clone or Download the Repository**: Clone or download this repository to your local machine.
+4. **Open the Power BI Project**: Launch Power BI Desktop and open the `Power BI report.pbix` file from the downloaded repository.
+5. **Explore the Report**: Explore the different pages and visuals to gain insights from the data.
 
 ## Usage
 
