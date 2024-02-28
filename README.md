@@ -1,6 +1,6 @@
 # Power BI Project README
 
-This Power BI project aims to provide comprehensive data analysis and visualisation fora retail company's sales and performance metrics, facilitating informed decision-making and strategic planning.. It includes multiple pages, each focusing on different aspects of the data and analysis.
+This Power BI project aims to provide comprehensive data analysis and visualisation for a retail company's sales and performance metrics, facilitating informed decision-making and strategic planning.. It includes multiple pages, each focusing on different aspects of the data and analysis.
 
 ## Reflection
 
