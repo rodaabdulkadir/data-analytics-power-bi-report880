@@ -100,7 +100,7 @@ Here's a detailed guide on how to navigate and utilise the Power BI report:
      
 <img width="936" alt="Screenshot 2024-02-28 at 01 43 42" src="https://github.com/rodaabdulkadir/data-analytics-power-bi-report880/assets/129794377/81c03448-84d5-47f5-937a-bde2a739a2ed">
 
-<img width="646" alt="Screenshot 2024-02-28 at 02 38 29" src="https://github.com/rodaabdulkadir/data-analytics-power-bi-report880/assets/129794377/979b5b9e-a2af-4cec-a69b-b1cd381cfd5f">
+<img width="539" alt="Screenshot 2024-02-28 at 01 43 52" src="https://github.com/rodaabdulkadir/data-analytics-power-bi-report880/assets/129794377/3f069270-5815-4f63-8d47-6250952d829e">
 
 
 ### Stores Map Page
