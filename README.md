@@ -46,7 +46,7 @@ Here's a detailed guide on how to navigate and utilise the Power BI report:
 4. Line Chart:
    - Review the line chart showing revenue trending by with Start of Year, Start of Quarter and Start of Month levels displayed through a date hierarchy drillthrough filter.
 5. Top 10 Products Table:
-   - Analyse the top 10 products based on revenue and orders
+   - Analyse the top 10 products based on revenue and orders.
 6. Slicers:
    - Use the slicers to filter data based on store type or country.
      
