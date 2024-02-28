@@ -26,6 +26,13 @@ Overall, this project served as an invaluable learning opportunity, enabling me 
 
 The project consists of the following main components:
 
+- [Executive Summary Page](#executive-summary-page):Provides a high-level overview of key metrics and insights.
+- [Customer Detail Page](#customer-detail-page): Focuses on customer-related metrics and analysis.
+- [Product Detail Page](#product-detail-page):Analyses product-related data and performance.
+- [Stores Map Page](#stores-map-page): Visualises store performance geographically.
+- [Stores Drillthrough Page](#stores-drillthrough-page): Offers detailed insights into individual store performance.
+
+
 1. **Executive Summary Page**: Provides a high-level overview of key metrics and insights.
 2. **Customer Detail Page**: Focuses on customer-related metrics and analysis.
 3. **Product Detail Page**: Analyses product-related data and performance.
