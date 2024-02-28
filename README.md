@@ -15,7 +15,11 @@ Overall, this project served as an invaluable learning opportunity, enabling me 
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. 
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Detailed Project Implementation](#detailed-project-implementation)
+5. [Metrics for Users outside the Company using SQL](#metrics-for-users-outside-the-company-using-sql)
+
 
 ## Project Overview
 
@@ -27,7 +31,7 @@ The project consists of the following main components:
 4. **Stores Map Page**: Visualises store performance geographically.
 5. **Stores Drillthrough Page**: Offers detailed insights into individual store performance.
 
-## Setup Instructions
+## Installation
 
 To view and interact with the Power BI report, follow these steps:
 
@@ -36,7 +40,7 @@ To view and interact with the Power BI report, follow these steps:
 3. **Open the Power BI Project**: Launch Power BI Desktop and open the `Power BI report.pbix` file from the downloaded repository.
 4. **Explore the Report**: Explore the different pages and visuals to gain insights from the data.
 
-## Usage Guide
+## Usage
 
 Here's a detailed guide on how to navigate and utilise the Power BI report:
 
