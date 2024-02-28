@@ -8,7 +8,7 @@ Working on this project was a truly enriching experience that provided valuable 
 
 Throughout the project, I encountered various complexities, from importing and transforming data to creating meaningful visualisations and implementing interactive features. Each step required careful consideration and problem-solving, pushing me to explore different techniques and functionalities within Power BI.
 
-Despite the initial difficulties, persisting through the challenges allowed me to deepen my understanding of Power BI's capabilities and refine my skills in data modelling, DAX formulas, and report design. Additionally, collaborating with the assistant for guidance and support was instrumental in navigating through complex tasks.
+Despite the initial difficulties, persisting through the challenges allowed me to deepen my understanding of Power BI's capabilities and refine my skills in data modelling, DAX formulas, and report design.
 
 Overall, this project served as an invaluable learning opportunity, enabling me to expand my proficiency in data analysis and visualisation while gaining confidence in tackling intricate data projects. I look forward to applying the knowledge and skills acquired here to future endeavours in data analytics and beyond.
 
